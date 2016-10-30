@@ -22,6 +22,8 @@ ja:
   field_end_date: "期日"
   field_pending_effort: "残存作業量"
   field_position: "ポジション"
+  field_shared: "共有"
+  field_shared_note: "共有スプリントはサブプロジェクトに表示され、サブプロジェクトのチケットをこのスプリントに割り当てることができます。"
   field_sprint: "スプリント"
   label_add_task: "PBIに %{tracker} を追加するためのポップアップウィンドウを開く"
   label_blocked: "ブロック"
